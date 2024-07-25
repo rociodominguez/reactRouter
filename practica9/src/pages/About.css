@@ -1,0 +1,13 @@
+.about {
+    background-color: #c2f0c2;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .about h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
